@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.956fad23.chunk.css",
+    "main.js": "/static/js/main.23113910.chunk.js",
+    "main.js.map": "/static/js/main.23113910.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.3b189aff.chunk.js": "/static/js/2.3b189aff.chunk.js",
+    "static/js/2.3b189aff.chunk.js.map": "/static/js/2.3b189aff.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3b8b73f48aec3c37c7ef3bdc51c62030.js": "/precache-manifest.3b8b73f48aec3c37c7ef3bdc51c62030.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.3b189aff.chunk.js.LICENSE.txt": "/static/js/2.3b189aff.chunk.js.LICENSE.txt",
+    "static/media/erkinqara.jpg": "/static/media/erkinqara.814e6a0f.jpg",
+    "static/media/resume.pdf": "/static/media/resume.189f1ff3.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.3b189aff.chunk.js",
+    "static/css/main.956fad23.chunk.css",
+    "static/js/main.23113910.chunk.js"
+  ]
+}
